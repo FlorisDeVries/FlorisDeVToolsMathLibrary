@@ -1,0 +1,13 @@
+{
+    "name": "com.florisdev.math-library",
+    "version": "1.0.0",
+    "displayName": "FlorisDeV Math Library",
+    "description": "Math library to ease development",
+    "unity": "2021.3",
+    "unityRelease": "6f1",
+    "author": {
+      "name": "FlorisDeV",
+      "email": "florisdev.me@gmail.com",
+      "url": "https://florisdev.me"
+    }
+  }
