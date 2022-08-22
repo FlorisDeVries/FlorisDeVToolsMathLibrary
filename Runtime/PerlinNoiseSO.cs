@@ -2,7 +2,7 @@
 
 namespace FlorisDeVToolsMathLibrary
 {
-    [CreateAssetMenu(fileName = "PerlinNoiseSO", menuName = "Game Setup/Utils/Perlin Noise Settings")]
+    [CreateAssetMenu(fileName = "PerlinNoiseSO", menuName = "FlorisDeVTools/Math/Perlin Noise Settings")]
     public class PerlinNoiseSO : ScriptableObject
     {
         [SerializeField] private float _width = 40;
